@@ -12,4 +12,4 @@ Install
 
 * Download or clone this repo
 * run ```npm install```
-* run ```node www/bin```
+* run ```node app.js```
